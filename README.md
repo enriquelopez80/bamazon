@@ -7,7 +7,7 @@ This application is a command line based storefront that uses the [Inquirer](htt
 
 ### Interface:
 
-When running the app, a customer is first given all of the items available for sale including the ids, names,prices and stock amount of products for sale. The user is then given two prompts: first asking what item they would like to buy then how many they want to purchase.
+When running the app, a customer is first given all of the items available for sale including the ids, names, prices and stock amount of products for sale. The user is then given two prompts: first asking what item they would like to buy then how many they want to purchase.
 
 If the selected quantity is in stock, the user's order is fulfilled and they are shown the item they chose plus the cost of that item. They're also showed the new stock amount plus that number is updated in the database.
 
