@@ -13,6 +13,6 @@ If the selected quantity is in stock, the user's order is fulfilled and they are
 
 If the desired quantity isn't available, the user is prompted to modify their order.
 
-## Demo:
+### Demo:
 
 Watch the demo to the bamazon customer interface [here.](https://drive.google.com/file/d/1gYyD06qjvUDW1RP7c4SJxvcaeKh-wDZI/view)
