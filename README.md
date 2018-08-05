@@ -2,7 +2,7 @@
 
 ### App Description:
 
-This application is a command line based storefront that uses the [Inquirer](https://www.npmjs.com/package/inquirer) NPM package and a MySQL database together with a [MySQL](https://www.npmjs.com/package/mysql) NPM package. The app takes in orders from customers and depletes stock from the store's inventory.
+This application is a command line based storefront that uses the [Inquirer](https://www.npmjs.com/package/inquirer) NPM package and a MySQL database together with a [MySQL](https://www.npmjs.com/package/mysql) NPM package. The app takes in orders from customers and uses stock from the store's inventory.
 
 
 ### Interface:
